@@ -90,6 +90,9 @@ Especializado en **MLOps**, **Deep Learning (NLP & CV)** y despliegue de modelos
 - [How to Build a Blood Cell Classifier for Cancer Prediction](https://datatalks.club/blog/how-to-build-blood-cell-classifier-for-cancer-prediction-case-study-from-ml-zoomcamp.html) *(DataTalks.Club, 2025)*  
 - [NLP con spaCy, TensorFlow y BERT](https://volcano-camp-325.notion.site/Natural-Language-Processing-using-spaCy-TensorFlow-and-BERT-model-architecture-2455067176b38018b7defdca1005c07a) *(Notion, 2025)*
 - [Building Discipline in Machine Learning with ML Zoomcamp](https://datatalks.club/blog/building-discipline-in-machine-learning-with-ml-zoomcamp.html) *(DataTalks.Club, 2025)*
+- [Machine Learning Notes](https://www.notion.so/Machine-Learning-Notes-10d5067176b380cba9adff35f4a997a1?source=copy_link) *(Notion, 2025)*
+- [Retail Demand Forecasting - MLZoomCamp 2024](https://www.notion.so/Retail-Demand-Forecasting-MLZoomCamp-Competition-2024-A-brief-summary-of-my-solution-2455067176b381d0902fe8f09830b880?source=copy_link) *(Notion, 2024)*
+- [AI Agents](https://www.notion.so/AI-Agents-1ba5067176b380648798f76fc4310bc4?source=copy_link) *(Notion, 2025)*
 
 ---
 
@@ -112,7 +115,8 @@ Especializado en **MLOps**, **Deep Learning (NLP & CV)** y despliegue de modelos
 ## 📊 Estadísticas de GitHub  
 
 ![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=aletbm&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aletbm&layout=compact&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aletbm&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aletbm&theme=radical)
 
 ---
 
