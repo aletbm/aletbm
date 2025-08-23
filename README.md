@@ -88,7 +88,8 @@ Especializado en **MLOps**, **Deep Learning (NLP & CV)** y despliegue de modelos
 ## 📚 Artículos y Publicaciones  
 - [Computer Vision para diagnóstico de tumores cerebrales](https://www.linkedin.com/pulse/computer-vision-para-el-diagnóstico-de-tumores-cerebrales-rios) *(LinkedIn, 2023)*  
 - [How to Build a Blood Cell Classifier for Cancer Prediction](https://datatalks.club/blog/how-to-build-blood-cell-classifier-for-cancer-prediction-case-study-from-ml-zoomcamp.html) *(DataTalks.Club, 2025)*  
-- [NLP con spaCy, TensorFlow y BERT](https://volcano-camp-325.notion.site/Natural-Language-Processing-using-spaCy-TensorFlow-and-BERT-model-architecture-2455067176b38018b7defdca1005c07a) *(Notion, 2025)*  
+- [NLP con spaCy, TensorFlow y BERT](https://volcano-camp-325.notion.site/Natural-Language-Processing-using-spaCy-TensorFlow-and-BERT-model-architecture-2455067176b38018b7defdca1005c07a) *(Notion, 2025)*
+- [Building Discipline in Machine Learning with ML Zoomcamp](https://datatalks.club/blog/building-discipline-in-machine-learning-with-ml-zoomcamp.html) *(DataTalks.Club, 2025)*
 
 ---
 
