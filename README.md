@@ -44,6 +44,10 @@ Especializado en **MLOps**, **Deep Learning (NLP & CV)** y despliegue de modelos
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F20?style=for-the-badge&logo=llama&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E86C1?style=for-the-badge&logo=graph&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=opencv&logoColor=black)
 
 ---
 
