@@ -61,7 +61,7 @@ Especializado en **MLOps**, **Deep Learning (NLP & CV)** y despliegue de modelos
 
 ---
 
-### 🔹 [RAG Research Assistant – Asistente de investigación con papers científicos](https://github.com/aletbm/HuggingFace_AI_Agent_FinalProject) *(Ene 2026 – Feb 2026)*  
+### 🔹 [RAG Research Assistant – Asistente de investigación con papers científicos](https://github.com/aletbm/HuggingFace_AI_Agent_FinalProject) *(Sep 2025 – Oct 2025)*  
 - Asistente de investigación basado en **Retrieval-Augmented Generation (RAG)** para responder preguntas utilizando **papers académicos de arXiv**.  
 - Pipeline end-to-end con **Qdrant Cloud, FastEmbed, Gemini, Prefect, FastAPI, Docker y Streamlit**.  
 - **121k+ chunks indexados** con embeddings semánticos y **filtros por categorías arXiv**, logrando **Hit Rate 0.91 y MRR 0.79**.  
