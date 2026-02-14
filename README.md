@@ -125,12 +125,21 @@ Especializado en **MLOps**, **Deep Learning (NLP & CV)** y despliegue de modelos
 ## 📊 Estadísticas de GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aletbm&show_icons=true&include_all_commits=true&count_private=true&hide=issues&theme=radical&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletbm&layout=compact&langs_count=6&exclude_repo=dotfiles,configs,notebooks&theme=radical&cache_seconds=1800" height="165"/>
+  <!-- Estadísticas generales con otra fuente (Shields.io) -->
+  <img src="https://img.shields.io/github/commit-activity/y/aletbm?style=for-the-badge&logo=github&color=ff5555&label=Commits" height="40"/>
+  <img src="https://img.shields.io/github/languages/top/aletbm?style=for-the-badge&logo=github&color=ff79c6&label=Top%20Language" height="40"/>
+  <img src="https://img.shields.io/github/forks/aletbm?style=for-the-badge&logo=github&color=50fa7b&label=Forks" height="40"/>
+  <img src="https://img.shields.io/github/stars/aletbm?style=for-the-badge&logo=github&color=bd93f9&label=Stars" height="40"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aletbm&theme=radical&hide_border=true&cache_seconds=1800"/>
+  <!-- Streaks alternativo usando Wakatime (requiere integración, pero se ve distinto) -->
+  <img src="https://wakatime.com/badge/user/ale_tm/projects.svg" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Lenguajes con otro diseño, usando GitHub Readme Stats pero en layout 'donut' -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletbm&layout=donut&langs_count=6&theme=gruvbox" height="165"/>
 </p>
 
 ---
@@ -139,5 +148,4 @@ Especializado en **MLOps**, **Deep Learning (NLP & CV)** y despliegue de modelos
 📍 Buenos Aires, Argentina  
 📧 [alexanderdaniel_rios@hotmail.com](mailto:alexanderdaniel_rios@hotmail.com)  
 🔗 [Linktree](http://www.linktr.ee/aletbm)  
-💼 [LinkedIn](https://www.linkedin.com/in/alexander-daniel-rios)  
-💻 [GitHub](https://github.com/aletbm)
+💼 [LinkedIn](https://www.linkedin.com/in/alexander-daniel-rios)
