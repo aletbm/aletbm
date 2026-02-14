@@ -141,3 +141,15 @@ Especializado en **MLOps**, **Deep Learning (NLP & CV)** y despliegue de modelos
 📧 [alexanderdaniel_rios@hotmail.com](mailto:alexanderdaniel_rios@hotmail.com)  
 🔗 [Linktree](http://www.linktr.ee/aletbm)  
 💼 [LinkedIn](https://www.linkedin.com/in/alexander-daniel-rios)
+
+---
+
+### 📄 Mi Currículum
+
+Si querés conocer más sobre mi experiencia, proyectos y skills, podés descargar mi CV en PDF haciendo clic en el botón:
+
+[![CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://aletbm.dev/CV.pdf](https://github.com/aletbm/DataScientist-MLEngineer_CurriculumVitae_LaTeX/blob/main/CV_Alexander_Daniel_Rios_DataScientist_MLEngineer.pdf))
+
+💡 Tip: Mantengo mi CV actualizado con mis últimos proyectos y logros en MLOps y Machine Learning.
+
+
