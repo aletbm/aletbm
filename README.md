@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hola, soy Alexander Daniel Ríos  
+# 👋 Hola, soy Alexander Daniel Rios  
 
 💻 **Data Scientist | Machine Learning Engineer**  
 Con más de 4 años de experiencia en proyectos prácticos de alto impacto.  
