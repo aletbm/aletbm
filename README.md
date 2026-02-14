@@ -136,11 +136,18 @@ Si querés conocer más sobre mi experiencia, proyectos y skills, podés descarg
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aletbm&theme=transparent" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aletbm&theme=transparent" height="165"/>
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aletbm&theme=transparent" height="165"/>
+</p>
+
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aletbm&theme=transparent" height="165"/>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=aletbm&theme=transparent&hide_border=true&cache_seconds=1800"/>
 </p>
 
