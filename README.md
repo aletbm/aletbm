@@ -61,13 +61,13 @@ Especializado en **MLOps**, **Deep Learning (NLP & CV)** y despliegue de modelos
 
 ---
 
-### 🔹 [RAG Research Assistant – Asistente de investigación con papers científicos](https://github.com/aletbm/HuggingFace_AI_Agent_FinalProject) *(Sep 2025 – Oct 2025)*  
-- Asistente de investigación basado en **Retrieval-Augmented Generation (RAG)** para responder preguntas utilizando **papers académicos de arXiv**.  
-- Pipeline end-to-end con **Qdrant Cloud, FastEmbed, Gemini, Prefect, FastAPI, Docker y Streamlit**.  
-- **121k+ chunks indexados** con embeddings semánticos y **filtros por categorías arXiv**, logrando **Hit Rate 0.91 y MRR 0.79**.  
+### 🔹 [RAG Research Assistant – Asistente de investigación con papers científicos](https://github.com/aletbm/RAG_Research_Assistant) *(Ene 2026 – Feb 2026)*  
+- Asistente de investigación basado en **Retrieval-Augmented Generation (RAG)** para responder preguntas utilizando **papers académicos** de arXiv.  
+- Pipeline end-to-end con **Qdrant Cloud, FastEmbed, Gemini, Prefect, FastAPI, Docker, Streamlit y Grafana**.  
+- Más de **120k chunks de papers científicos** indexados con embeddings semánticos y **filtros por categorías arXiv**, logrando **HitRate 0.91 y MRR 0.79** en recuperación de contexto relevante.  
 - Evaluación sistemática de **métricas de similitud (Cosine, Dot, Euclidean)** y estrategias de prompting (**Base, Chain-of-Thought, Few-Shot**).  
-- **Feedback loop en BigQuery** y monitoreo en tiempo real mediante **Grafana dashboards**.  
-👉 [App](https://research-assist-rag.streamlit.app) | [Dashboard](https://aletbm.grafana.net/public-dashboards/2e048e03ec0944558e6b73739dcdea37) | [Repositorio](https://github.com/aletbm/HuggingFace_AI_Agent_FinalProject)
+- **Monitoreo del sistema en tiempo real con dashboards de Grafana** y **feedback loop en BigQuery** para mejora continua.  
+👉 [Demo App](https://research-assist-rag.streamlit.app) | [Grafana Dashboard](https://aletbm.grafana.net/public-dashboards/2e048e03ec0944558e6b73739dcdea37) | [Repositorio](https://github.com/aletbm/RAG_Research_Assistant)
 
 ---
 
