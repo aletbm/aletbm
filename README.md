@@ -72,7 +72,7 @@ Si querés conocer más sobre mi experiencia, proyectos y skills, podés descarg
 
 ---
 
-### 🔹 [RAG Research Assistant – Asistente de investigación con papers científicos](https://github.com/aletbm/RAG_Research_Assistant) *(Ene 2026 – Feb 2026)*  
+### 🔹 [RAG Research Assistant – Asistente de investigación con papers científicos](https://github.com/aletbm/RAG_Research_Assistant) *(Sep 2025 – Oct 2025)*  
 - Asistente de investigación basado en **Retrieval-Augmented Generation (RAG)** para responder preguntas utilizando **papers académicos** de arXiv.  
 - Pipeline end-to-end con **Qdrant Cloud, FastEmbed, Gemini, Prefect, FastAPI, Docker, Streamlit y Grafana**.  
 - Más de **120k chunks de papers científicos** indexados con embeddings semánticos y **filtros por categorías arXiv**, logrando **HitRate 0.91 y MRR 0.79** en recuperación de contexto relevante.  
