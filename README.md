@@ -125,13 +125,13 @@ Especializado en **MLOps**, **Deep Learning (NLP & CV)** y despliegue de modelos
 ## 📊 Estadísticas de GitHub  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aletbm&theme=radical" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aletbm&theme=radical" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aletbm&theme=2077" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aletbm&theme=2077" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aletbm&theme=radical" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=aletbm&theme=radical&hide_border=true&cache_seconds=1800"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aletbm&theme=2077" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=aletbm&theme=2077&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
