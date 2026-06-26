@@ -25,8 +25,8 @@ Especializado en **MLOps**, **Deep Learning (NLP & CV)** y despliegue de modelos
 
 Si querés conocer más sobre mi experiencia, proyectos y skills, podés descargar mi CV en PDF haciendo click en el botón:
 
-[![Download CV Spanish](https://img.shields.io/badge/CV_Light_Mode-white?style=for-the-badge&logo=adobeacrobatreader&logoColor=003153)](https://github.com/aletbm/DataScientist-MLEngineer_CurriculumVitae_LaTeX/blob/main/CV_Alexander_Rios_DataScientist_MLEngineer_ES.pdf)
-[![Download CV English](https://img.shields.io/badge/CV_Dark_Mode-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/aletbm/DataScientist-MLEngineer_CurriculumVitae_LaTeX/blob/main/CV_Alexander_Daniel_Rios_DataScientist_MLEngineer_EN.pdf)
+[![Download CV Spanish](https://img.shields.io/badge/CV_Spanish-white?style=for-the-badge&logo=adobeacrobatreader&logoColor=003153)](https://github.com/aletbm/DataScientist-MLEngineer_CurriculumVitae_LaTeX/blob/main/CV_Alexander_Rios_DataScientist_MLEngineer_ES.pdf)
+[![Download CV English](https://img.shields.io/badge/CV_English-black?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/aletbm/DataScientist-MLEngineer_CurriculumVitae_LaTeX/blob/main/CV_Alexander_Daniel_Rios_DataScientist_MLEngineer_EN.pdf)
 
 💡 Tip: Mantengo mi CV actualizado con mis últimos proyectos y logros en MLOps y Machine Learning.
 
